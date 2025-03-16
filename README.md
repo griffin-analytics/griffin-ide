@@ -6,7 +6,7 @@
 
 # Griffin IDE
 
-Griffin IDE is a specialized fork of Eclipse Theia optimized for data scientists with a focus on Bayesian statistics. It provides an integrated development environment that combines code editing, plot visualization, and Python integration in a 4-quadrant interface similar to Spyder IDE.
+Griffin IDE is a specialized fork of Eclipse Theia optimized for data scientists with a focus on Bayesian statistics. It provides an integrated development environment that combines code editing, plot visualization, and Python integration in a 4-quadrant interface.
 
 ## Key Features
 
