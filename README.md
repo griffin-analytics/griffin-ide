@@ -1,57 +1,13 @@
 <div id="griffin-logo" align="center">
     <br />
     <img src="logo/griffin-logo.svg" alt="Griffin Logo" width="300"/>
-    <h3>Data Science IDE with Bayesian Statistics Focus</h3>
+    <h3>Marketing Data Science IDE</h3>
 </div>
 
 # Griffin IDE
 
-Griffin IDE is a specialized fork of Eclipse Theia optimized for data scientists with a focus on Bayesian statistics. It provides an integrated development environment that combines code editing, plot visualization, and Python integration in a 4-quadrant interface.
+Griffin IDE is a specialized IDE optimized for data scientists. 
 
-## Key Features
-
-### 4-Quadrant Layout
-Griffin IDE implements a quadrant-based interface optimized for data science workflows:
-
-- **Top-Left**: Code Editor with Python syntax highlighting and intelligent code completion
-- **Top-Right**: Plot Visualization panel for displaying statistical outputs and data visualizations
-- **Bottom-Left**: File Explorer for project management and navigation
-- **Bottom-Right**: Python Console with rich output support for executing code and viewing results
-
-### Python Integration
-- Desktop Python kernel with focus on Bayesian statistics libraries
-- Rich output visualization (HTML, images, plots, LaTeX equations)
-- Variable explorer for inspecting Python objects
-- Support for key data science and Bayesian libraries:
-  - PyMC for Bayesian statistical modeling
-  - ArviZ for statistical visualization
-  - NumPy, Pandas, and SciPy for data manipulation
-  - TensorFlow Probability for probabilistic models
-  - Altair for declarative visualization
-  - Xarray for labeled multi-dimensional arrays
-
-### Specialized for Bayesian Statistics
-- Special rendering for posterior distribution plots
-- Support for MCMC diagnostics visualization
-- Optimized display of statistical data structures
-- Integration with key Bayesian modeling tools
-
-### Visual Customization
-- Custom Griffin color scheme and branding
-- Optimized UI for data science workflows
-- Configurable appearance and layout
-
-## Getting Started
-
-### Installation
-*Installation instructions will be provided in a future update*
-
-### Basic Usage
-1. Launch Griffin IDE
-2. Open or create Python files in the editor
-3. Execute code using the Python console
-4. Visualize results in the plot panel
-5. Inspect variables in the variable explorer
 
 ## Documentation
 *Comprehensive documentation will be provided in a future update*
