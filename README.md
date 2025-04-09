@@ -6,8 +6,7 @@
 
 # Griffin IDE
 
-Griffin IDE is a specialized IDE optimized for data scientists. 
-
+Griffin IDE is a specialized privacy-focused IDE optimized for data scientists. It is designed with modular architecture, emphasizing vendor neutrality and user control, such as avoiding default telemetry. It is particularly appealing for those seeking a customizable, privacy-focused alternative to other IDEs.
 
 ## Documentation
 *Comprehensive documentation will be provided in a future update*
